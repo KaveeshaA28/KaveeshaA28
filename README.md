@@ -5,7 +5,7 @@
 **Undergraduate @ SLIIT | Aspiring Software Engineer | Open to learning & collaboration**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KaveeshaThathsarani-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaveeshaama-rasekara-7b7a563507)
-[![Email](https://img.shields.io/badge/Email-dkaveesha22%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:dkaveesha22@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tkaveesha272%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:tkaveesha272@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-KaveeshaA28-181717?style=for-the-badge&logo=github)](https://github.com/KaveeshaA28)
 
 </div>
@@ -18,7 +18,7 @@
 - 🌱 Currently learning **Spring Boot · React · MongoDB · Playwright Testing**
 - 🚀 Building real-world web & mobile applications
 - 🤝 Open to collaborating on exciting projects
-- 📧 Reach me at **dkaveesha22@gmail.com**
+- 📧 Reach me at **tkaveesha272@gmail.com**
 
 ---
 
@@ -64,7 +64,7 @@ A movie tracking web app — search, explore and manage your watchlist.
 `CSS · JavaScript · HTML`
 
 ### 🛍️ [velorra-store](https://github.com/KaveeshaA28/velorra-store)
-Full Stack Fashion E-Commerce Store | MERN Stack · JWT Auth · Stripe Payment · Cloudinary · Redux Toolkit · Tailwind CSS
+Full Stack Fashion E-Commerce | MERN Stack · JWT Auth · Stripe Payment · Cloudinary · Redux Toolkit · Tailwind CSS
 `JavaScript · React · Node.js · MongoDB`
 
 ### ☕ [PAF_Lab5](https://github.com/KaveeshaA28/PAF_Lab5)
